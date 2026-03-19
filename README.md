@@ -1,5 +1,6 @@
 # rnet
-Extending functionality of R-net controllers for power wheelchairs
+Extending functionality of R-net controllers for power wheelchairs. 
+We want to be able to connect to the RNet bus that underlies many powerchairs, and see what we can see and do. 
 
 Reference: 
 https://github.com/redragonx/can2RNET
